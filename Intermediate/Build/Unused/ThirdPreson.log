@@ -1,0 +1,24 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\ue4code\UnrealEngine).
+  Creating makefile for ThirdPresonEditor (config setting changed)
+  Parsing headers for ThirdPresonEditor
+    Running UnrealHeaderTool "D:\ue4Project\tencentClassProject\sixClass\ThirdPreson.uproject" "D:\ue4Project\tencentClassProject\sixClass\Intermediate\Build\Win64\ThirdPresonEditor\Development\ThirdPresonEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\ue4code\UnrealEngine\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for ThirdPresonEditor in 50.1815087 seconds
+  Building ThirdPresonEditor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 11 actions with 6 processes...
+    [1/11] ThirdPreson.cpp
+    [2/11] ThirdPreson.init.gen.cpp
+    [3/11] ThirdPresonGameMode.cpp
+    [4/11] ThirdPresonGameMode.gen.cpp
+    [5/11] ThirdPresonCharacter.gen.cpp
+    [6/11] ThirdPresonCharacter.cpp
+    [7/11] MyRegex.cpp
+    [8/11] MyRegex.gen.cpp
+    [9/11] UE4Editor-ThirdPreson.lib
+      正在创建库 D:\ue4Project\tencentClassProject\sixClass\Intermediate\Build\Win64\UE4Editor\Development\ThirdPreson\UE4Editor-ThirdPreson.lib 和对象 D:\ue4Project\tencentClassProject\sixClass\Intermediate\Build\Win64\UE4Editor\Development\ThirdPreson\UE4Editor-ThirdPreson.exp
+    [10/11] UE4Editor-ThirdPreson.dll
+      正在创建库 D:\ue4Project\tencentClassProject\sixClass\Intermediate\Build\Win64\UE4Editor\Development\ThirdPreson\UE4Editor-ThirdPreson.suppressed.lib 和对象 D:\ue4Project\tencentClassProject\sixClass\Intermediate\Build\Win64\UE4Editor\Development\ThirdPreson\UE4Editor-ThirdPreson.suppressed.exp
+    [11/11] ThirdPresonEditor.target
+  Total time in Parallel executor: 733.38 seconds
+  Total execution time: 829.69 seconds

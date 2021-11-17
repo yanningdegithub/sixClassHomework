@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ThirdPreson",
+			"Path": "D:\\ue4Project\\tencentClassProject\\UE4_6-main\\Source\\ThirdPreson.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ThirdPresonEditor",
+			"Path": "D:\\ue4Project\\tencentClassProject\\UE4_6-main\\Source\\ThirdPresonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

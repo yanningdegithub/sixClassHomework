@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ue4Project\\tencentClassProject\\sixClass\\Source\\ThirdPreson\\ThirdPreson.Build.cs",
+		"D:\\ue4Project\\tencentClassProject\\sixClass\\Source\\ThirdPreson.Target.cs",
+		"D:\\ue4Project\\tencentClassProject\\sixClass\\Source\\ThirdPresonEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}

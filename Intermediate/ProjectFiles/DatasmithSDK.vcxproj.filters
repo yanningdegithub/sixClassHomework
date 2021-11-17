@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\DatasmithSDK.Target.cs" />
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\DatasmithSDK.Build.cs" />
+    <Filter Include="Documentation">
+      <UniqueIdentifier>{B15FDD7B-E1FC-4B22-A089-23C8AF34EFB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\1.Welcome.md">
+      <Filter>Documentation</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\2.SetUpYourProject.md">
+      <Filter>Documentation</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\3.ExportToDatasmith.md">
+      <Filter>Documentation</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\Third Party Software Notices.pdf">
+      <Filter>Documentation</Filter>
+    </None>
+    <Filter Include="Documentation\build">
+      <UniqueIdentifier>{CF8CCD26-DFD4-4C02-BE07-8F402C557386}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\DatasmithSDK_config.txt">
+      <Filter>Documentation\build</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\examples.dox">
+      <Filter>Documentation\build</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\footer.txt">
+      <Filter>Documentation\build</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\header.txt">
+      <Filter>Documentation\build</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\run_doxygen.bat">
+      <Filter>Documentation\build</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\styles.css">
+      <Filter>Documentation\build</Filter>
+    </None>
+    <Filter Include="Documentation\build\output">
+      <UniqueIdentifier>{CCC3E7E2-FFA4-4864-BFC5-55473D5037D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\output\Datasmith SDK Documentation.html">
+      <Filter>Documentation\build\output</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Documentation\build\output\Datasmith SDK Documentation.zip">
+      <Filter>Documentation\build\output</Filter>
+    </None>
+    <Filter Include="Private">
+      <UniqueIdentifier>{7F825DA7-A602-44AF-940F-CD371C36C398}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Private\DatasmithSDK.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSDK\Private\DatasmithSDK.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

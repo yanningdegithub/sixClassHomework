@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks2021.Target.cs" />
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks2021.Build.cs" />
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Readme.txt" />
+    <Filter Include="DatasmithSolidworks">
+      <UniqueIdentifier>{D873EFB1-746D-421E-9F21-110BC7BA8660}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks\MainIconLarge.bmp">
+      <Filter>DatasmithSolidworks</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks\MainIconSmall.bmp">
+      <Filter>DatasmithSolidworks</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks\ToolbarLarge.bmp">
+      <Filter>DatasmithSolidworks</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks\ToolbarSmall.bmp">
+      <Filter>DatasmithSolidworks</Filter>
+    </None>
+    <Filter Include="DatasmithSolidworks\Properties">
+      <UniqueIdentifier>{8AD0473E-2B5B-4B59-97D0-F711E486DE2F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks\Properties\AssemblyInfo.cs">
+      <Filter>DatasmithSolidworks\Properties</Filter>
+    </None>
+    <Filter Include="Installer">
+      <UniqueIdentifier>{FE9007A2-6A3A-4AE1-BBF9-901D529DBCF3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\CustomActions.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\CustomExitDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\CustomInstallDirDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\CustomLicenseAgreementDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\CustomWelcomeDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\CustomWixUI_InstallDir.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\GenericUiBrandDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Installer.wixproj">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Product.template">
+      <Filter>Installer</Filter>
+    </None>
+    <Filter Include="Installer\Localization">
+      <UniqueIdentifier>{30BC08F1-FF75-4A2A-963B-6D51FAE54159}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\de-de.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\en-us.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\es-es.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\fr-fr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\ja-jp.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\ko-kr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\pt-pt.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\UtilExtension_es-es.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\UtilExtension_fr-fr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\UtilExtension_ja-jp.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\UtilExtension_ko-kr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\UtilExtension_pt-pt.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\UtilExtension_zh_cn.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\zh-cn.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <Filter Include="Installer\Resources">
+      <UniqueIdentifier>{D75DF3E1-FD53-4184-AC98-6E0008F70D2F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\default_small_banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Dialog.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Exporter Plugin End User License Agreement.docx">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Exporter Plugin End User License Agreement.rtf">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Microsoft_VC140_CRT_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Microsoft_VC140_OpenMP_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\UnrealEngine.ico">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images">
+      <UniqueIdentifier>{D718D7E0-644E-4A59-B7D4-648314C947DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
+      <Filter>Installer\Resources\Images</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\Background">
+      <UniqueIdentifier>{6CECD908-40D4-4878-9AFC-1B4CE864594D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\Background\28190.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\Background\28402.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\Background\28674.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\Background\30668.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\Background\30725.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\General">
+      <UniqueIdentifier>{604BC133-DD79-48EC-8756-652942B07AC6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\General\banner.bmp">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\General\unreal-logo.jpg">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <Filter Include="Installer\Scripts">
+      <UniqueIdentifier>{744CD037-18CA-4330-B300-47FA87D8902D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Scripts\CreateMultilanguageInstaller.bat">
+      <Filter>Installer\Scripts</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Scripts\CreateMultilanguageInstaller.py">
+      <Filter>Installer\Scripts</Filter>
+    </None>
+    <Filter Include="PreprocessWxs">
+      <UniqueIdentifier>{C2248A3E-1C88-4681-8D68-39E4CF05D68D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\PreprocessWxs\App.config">
+      <Filter>PreprocessWxs</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\PreprocessWxs\Program.cs">
+      <Filter>PreprocessWxs</Filter>
+    </None>
+    <Filter Include="PreprocessWxs\Properties">
+      <UniqueIdentifier>{0523F403-A9C7-4F9B-9631-1288C4B389AF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\PreprocessWxs\Properties\AssemblyInfo.cs">
+      <Filter>PreprocessWxs\Properties</Filter>
+    </None>
+    <Filter Include="Private">
+      <UniqueIdentifier>{B7CAA516-623A-4B1B-8759-20BFF2F85BC5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\DatasmithExporter.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\EventHandling.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\PMPHandler.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwAddin.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwNotifications.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwSingleton.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\UserPMPage.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Utility.cs">
+      <Filter>Private</Filter>
+    </None>
+    <Filter Include="Private\Animations">
+      <UniqueIdentifier>{90544BFB-B1C7-40EA-9CD8-33588C130AC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Animations\AnimationExtractor.cs">
+      <Filter>Private\Animations</Filter>
+    </None>
+    <Filter Include="Private\Engine">
+      <UniqueIdentifier>{A85494D9-6F76-4BA4-89FB-9CFEBDD30858}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Engine\CommandQueue.cs">
+      <Filter>Private\Engine</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Engine\MeshFactory.cs">
+      <Filter>Private\Engine</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Engine\Processor.cs">
+      <Filter>Private\Engine</Filter>
+    </None>
+    <Filter Include="Private\Geometry">
+      <UniqueIdentifier>{4EDCD0F9-C6D3-4608-A4F8-AE5DA22A68E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\BoundingBox.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\ConstructionGeometry.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\Geometry.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\GeometryChunk.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\MathUtil.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\Matrix4.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\StripGeometry.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\StripUnion.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\StripVector.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\Triangle.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\TriangleStrip.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\UVPlane.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\Vec2.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\Vec3.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\Vertex.cs">
+      <Filter>Private\Geometry</Filter>
+    </None>
+    <Filter Include="Private\Materials">
+      <UniqueIdentifier>{86756D59-481C-468B-8540-85D9CD395C0F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Materials\MaterialMapper.cs">
+      <Filter>Private\Materials</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Materials\Utility.cs">
+      <Filter>Private\Materials</Filter>
+    </None>
+    <Filter Include="Private\SwObjects">
+      <UniqueIdentifier>{F92B66BA-3DE8-47D4-A27E-46D8551D9C9D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAnimation.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAnimationChannel.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAnimationIntermediateChannel.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAnimationIntermediateKeyframe.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAnimationKeyframe.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAnimationPseudoChannel.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAnimationPseudoKeyframe.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAssemblyDoc.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwBody.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwCamera.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwFace.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwFeature.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwLightweightMaterial.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwMaterial.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwMetaDataManager.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwPartDoc.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwScene.cs">
+      <Filter>Private\SwObjects</Filter>
+    </None>
+    <Filter Include="RegistryKeyExistsCustomAction">
+      <UniqueIdentifier>{B77DD4FE-493B-4164-98E1-E2C8764CFA50}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\RegistryKeyExistsCustomAction\CustomAction.config">
+      <Filter>RegistryKeyExistsCustomAction</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\RegistryKeyExistsCustomAction\CustomAction.cs">
+      <Filter>RegistryKeyExistsCustomAction</Filter>
+    </None>
+    <Filter Include="RegistryKeyExistsCustomAction\Properties">
+      <UniqueIdentifier>{6DCD4FCF-F985-4ACE-9D5D-14F52333BC5E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\RegistryKeyExistsCustomAction\Properties\AssemblyInfo.cs">
+      <Filter>RegistryKeyExistsCustomAction\Properties</Filter>
+    </None>
+  </ItemGroup>
+</Project>

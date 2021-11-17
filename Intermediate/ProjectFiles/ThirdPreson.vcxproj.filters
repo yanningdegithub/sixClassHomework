@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThirdPreson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EAC2F497-2F05-4048-A182-E6B7F2F6C29A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPreson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPresonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FE6391B4-9EC9-453B-BB88-84C366DC5F12}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThirdPreson">
+      <UniqueIdentifier>{90695378-6FF9-4740-8489-E1CE37E56100}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPreson\MyRegex.cpp">
+      <Filter>Source\ThirdPreson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPreson\MyRegex.h">
+      <Filter>Source\ThirdPreson</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ThirdPreson\ThirdPreson.Build.cs">
+      <Filter>Source\ThirdPreson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThirdPreson\ThirdPreson.cpp">
+      <Filter>Source\ThirdPreson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPreson\ThirdPreson.h">
+      <Filter>Source\ThirdPreson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPreson\ThirdPresonCharacter.cpp">
+      <Filter>Source\ThirdPreson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPreson\ThirdPresonCharacter.h">
+      <Filter>Source\ThirdPreson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPreson\ThirdPresonGameMode.cpp">
+      <Filter>Source\ThirdPreson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPreson\ThirdPresonGameMode.h">
+      <Filter>Source\ThirdPreson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
